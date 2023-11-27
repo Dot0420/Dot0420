@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+I'm Joo Hwan!
+
+ I am a software developer. I mainly develop using Java, and I work at @CrashFarm.
 <!--
 **Dot0420/Dot0420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
